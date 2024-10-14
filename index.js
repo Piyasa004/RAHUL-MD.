@@ -101,7 +101,7 @@ https://youtube.com/@rahultech009?si=hSjZAIfkx7_lM8ue 🔰
 ╰━━━━━━━━━━━━━━━━━╯
 
 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐀𝐂𝐓𝐈𝐕𝐄 𝐍𝐎𝐖 𝐄𝐍𝐉𝐎𝐘 🤩\n\nPREFIX: ${prefix}`;
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/5de9kr.jpg` }, caption: up })
 
 }
 })
@@ -166,19 +166,19 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //================ownerreact
-if(senderNumber.includes("923096287432")){
+if(senderNumber.includes("919547261290")){
 if(isReact) return
-m.react("👑")
+m.react("☠️")
 }
 
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("919083366564")){
 if(isReact) return
-m.react("👑")
+m.react("☠️")
 }
 
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("919547261290")){
 if(isReact) return
-m.react("🦋")
+m.react("☠️")
 }
 //==========================public react
 
@@ -229,7 +229,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, SILENT-SOBX-MD STARTED ✅");
+res.send("HEY, RAHUL-MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
