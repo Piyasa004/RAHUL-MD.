@@ -83,24 +83,24 @@ require("./plugins/" + plugin);
 console.log('ᴘʟᴜɢɪɴs ɪɴsᴛᴀʟʟᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ✅')
 console.log('ʀᴀʜᴜʟ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴡʜᴀᴛsᴀᴘᴘ 🔗')
 
-let up = `➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅
+let up = ` *➺ 𝗥𝗔𝗛𝗨𝗟-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗬  𝗧𝗬𝗣𝗘 .𝗠𝗘𝗡𝗨 𝗧𝗢 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗥𝗔𝗛𝗨𝗟 𝗧𝗘𝗖𝗛 𝗦𝗘𝗥 🪄*
 
-*❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
+*❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ʀᴀʜᴜʟ-ᴍᴅ❁*
 
-https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s🔰
+https://whatsapp.com/channel/0029Vamqw8iLdQeVDIledD2b 🔰
 
-*❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
+*❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ʀᴀʜᴜʟ-ᴍᴅ❁*
 
-https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7🔰
+https://youtube.com/@rahultech009?si=hSjZAIfkx7_lM8ue 🔰
 
-╭⊱✫🔮✠sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ🔮✫⊱╮
-│✫ - *📂Repository Name:* SILENT-SOBX-MD
-│✫ - *📃Description:* ❁ᴡᴏʀʟᴅ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ❁
-│✫ - *🛡️Owner:* sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²
-│✫ - *🌐 URL:* https://github.com/SILENTLOVER4/SILENT-SOBX-MD
+╭⊱✫☠️✠𝗥𝗔𝗛𝗨𝗟-𝗠𝗗☠️✫⊱╮
+│✫ - *🧠 DEVELOPER:* 𝖱𝖠𝖧𝖴𝖫 𝖳𝖤𝖢𝖧 𝖲𝖤𝖱
+│✫ - *📃DESCRIPTION:* ❁𝖶𝖮𝖱𝖫𝖣 𝖡𝖤𝖲𝖳 𝖶𝖧𝖠𝖳𝖲𝖠𝖯𝖯 𝖡𝖮𝖳❁
+│✫ - *🧑🏻‍💻OWNER:* 𝖱𝖠𝖧𝖴𝖫 𝖣𝖤𝖡𝖭𝖠𝖳𝖧
+│✫ - *📡 URL:* https://github.com/rahultechser/RAHUL-MD
 ╰━━━━━━━━━━━━━━━━━╯
 
-YOUR BOT ACTIVE NOW ENJOY♥️🪄\n\nPREFIX: ${prefix}`;
+𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐀𝐂𝐓𝐈𝐕𝐄 𝐍𝐎𝐖 𝐄𝐍𝐉𝐎𝐘 🤩\n\nPREFIX: ${prefix}`;
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg` }, caption: up })
 
 }
