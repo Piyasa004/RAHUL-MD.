@@ -15,7 +15,7 @@
 * YouTube - Rahul Tech
 * Version - V1
 
-World best and powerfull whatsapp user bot in India*/
+World best and powerfull whatsapp user bot in India
 
 
 
