@@ -1,57 +1,29 @@
 {
-    "name": "Rahul-Md",
-    "description": "Javascript Whatsapp Bot Made By Rahul Debnath",
-    "repository": "https://github.com/rahultechser/RAHUL-MD",
-    "logo": "https://files.catbox.moe/5de9kr.jpg",
-    "keywords": [
-        "nodejs",
-        "Bot",
-        "WhatsApp Bot",
-        "WhatsApp Automation",
-        "Multi Device"
-    ],
-    "env": {
-        "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
-            "required": true,
-            "value": ""
-        },
-        "DATABASE_URL": {
-            "description": "Enter a PostgresSQL Database's External Url",
-            "required": true,
-            "value": ""
-        },
-        "HEROKU_API_KEY": {
-            "description": "Enter your Heroku account Api key",
-            "required": true,
-            "value": ""
-        },
-        "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
-            "required": true,
-            "value": ""
-        },
-        "WORK_TYPE": {
-            "description": "Add the worktype of the Bot ( private ,public , onlygroup )",
-            "required": true,
-            "value": "private"
-        }
-    },
-    "buildpacks": [
-        {
-            "url": "heroku/nodejs"
-        },
-        {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-        },
-        {
-            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-        }
-    ],
-    "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
+  "name": "RAHUL-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʀᴀʜᴜʟ ᴛᴇᴄʜ sᴇʀ",
+  "logo": "https://files.catbox.moe/5de9kr.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+    },  
+
+    "MONGODB": {
+      "description": "you can use this public mongodb url if you have your personal key So you can use him.",
+      "required": true,
+      "value": "mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=majority"
     }
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
 }
