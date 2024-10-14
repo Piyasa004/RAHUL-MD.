@@ -4,6 +4,7 @@ const os = require("os")
 const {runtime} = require('../lib/functions')
 cmd({
     pattern: "system",
+    react: "♠️",
     alias: ["status","botinfo"],
     desc: "Check up time, ram usage and more",
     category: "main",
@@ -16,12 +17,9 @@ let status = `*Uptime:*  ${runtime(process.uptime())}
 *Host Name:* ${os.hostname()}
 *Owner:* Rahul Debnath
 `
-reply(`${status}`)
-
+return reply(`${status}`)
 }catch(e){
 console.log(e)
 reply(`${e}`)
-
 }
 })  
-  
